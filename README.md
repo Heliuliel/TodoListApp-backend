@@ -1,6 +1,7 @@
 # Todo List App
 <img width="942" alt="screenshot" src="https://github.com/Heliuliel/TodoListApp-frontend/assets/133891329/637346dd-1043-4d59-991b-2a0dfd3ddab3">
 <img width="941" alt="screenshot2" src="https://github.com/Heliuliel/TodoListApp-frontend/assets/133891329/99156369-d8b3-47a6-a792-c8e1e1a887ef">
+
 ## Description
 
 Todo List App is a simple web application built using React, Node.js, Express.js, and MongoDB. It allows users to manage their daily tasks and keep track of things they need to do.
